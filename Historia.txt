@@ -3,3 +3,5 @@ Este es un documento de prueba
 es para validar los datos o confirmar los comando de git
  
 Hablaremos de algo y de papas con queso
+
+Mañana nos enfocamos en su vida laboral
