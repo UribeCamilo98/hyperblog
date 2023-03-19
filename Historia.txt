@@ -1,5 +1,7 @@
 Este es un documento de prueba
 
+Agregamos una nueva linea de texto para el curso de git
+
 es para validar los datos o confirmar los comando de git
  
 Hablaremos de algo y de papas con queso
